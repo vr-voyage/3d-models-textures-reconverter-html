@@ -1,6 +1,6 @@
 # About
 
-A texture reconverter for my VRChat 3D Model Loader,
+A texture reconverter for my [VRChat 3D Model Loader](https://github.com/vr-voyage/vrchat-3d-model-loader-tablet),
 setup as a single HTML file with no dependencies and no
 network requests !
 
